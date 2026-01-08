@@ -1,6 +1,6 @@
 # anime_trending_app
 
-A new Flutter project.
+A Flutter application to display trending anime with Jikan API.
 
 ## Getting Started
 
